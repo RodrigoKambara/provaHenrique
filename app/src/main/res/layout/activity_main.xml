@@ -5,4 +5,4 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/ic_sky_background"/>
+    android:background="@drawable/ic_gerald_g_fast_food_lunch_dinner_ff_menu_1"/>
